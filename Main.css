@@ -1,0 +1,39 @@
+body {
+  background-color: #000000;
+}
+h1 {
+  color: #D4AF37;
+}
+.Page1 {
+  color: #D4AF37;
+}
+a:link {
+  color: #D4AF37;
+  text-decoration: none;
+}
+a:visited {
+  color: #D4AF37;
+  text-decoration: none;
+}
+.navitem {
+  list-style-type: none;
+  display: inline;
+  margin-right: .3em;
+  padding: 2px 5px;
+}
+#navmenu {
+  text-align: center;
+  background-color: #000000;
+  color: #D4AF37;
+}
+table, th, td {
+  border: 1px solid #D4AF37;
+  border-collapse: collapse;
+  color: #D4AF37;
+}
+th {
+  padding-top: 0;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 0;
+}
